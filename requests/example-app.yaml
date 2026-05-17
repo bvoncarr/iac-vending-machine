@@ -1,0 +1,7 @@
+resource: azure-storage
+name: bvoncarrexample001
+region: centralus
+tags:
+  team: platform
+  env: dev
+  owner: bvoncarr
