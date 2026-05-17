@@ -1,0 +1,7 @@
+resource: azure-storage
+name: bvoncarrmarketing001
+region: centralus
+tags:
+  team: marketing
+  env: prod
+  owner: bvoncarr
