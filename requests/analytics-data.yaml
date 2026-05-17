@@ -1,0 +1,7 @@
+resource: azure-storage
+name: bvoncarranalytics01
+region: centralus
+tags:
+  team: analytics
+  env: prod
+  owner: bvoncarr
